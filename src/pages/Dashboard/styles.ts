@@ -37,6 +37,7 @@ export const Form = styled.form<FormProps>`
 
         &::placeholder {
             color: #a8a8b3;
+            font-size: 14px;
         }
     }
 
